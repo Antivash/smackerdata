@@ -1,1 +1,1 @@
-My IronMon SmackerTracker data
+Ironmon Tracker data created with the [SmackerTracker extension.](https://github.com/WaffleSmacker/SmackerTracker-IronmonExtension)
